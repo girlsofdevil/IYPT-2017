@@ -10,11 +10,13 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  Balloon Airhorn
 ## Özet
-Bu projede tüp, zar, ana gövde ve üfleme deliğinden oluşan basit bir kornalar yapılıp değişken parametrelerin(zarın kalınlığı, ana gövdenin yapıldığı madde, üfleme deliğinin büyüklüğü gibi) kornadan çıkan seste etkisi (frekans, gürlük vs) araştırmak amaçlanmıştır.*Kornanın yapısı* Kornadaki tüp, ana gövdenin içinden hava deliği ve tüpün ağız kısmı dışında hava aldırmayacak şekilde geçip, bir ucu zarın üzerinde belirli bir gerilim yaratacak şekilde bitişik olacaktır. 
+Bu projede tüp, zar, ana gövde ve üfleme deliğinden oluşan basit bir kornalar yapılıp değişken parametrelerin(zarın kalınlığı, ana gövdenin yapıldığı madde, üfleme deliğinin büyüklüğü gibi) kornadan çıkan seste etkisi (frekans, gürlük vs) araştırmak amaçlanmıştır.
+*Kornanın yapısı* Kornadaki tüp, ana gövdenin içinden hava deliği ve tüpün ağız kısmı dışında hava aldırmayacak şekilde geçip, bir ucu zarın üzerinde belirli bir gerilim yaratacak şekilde bitişik olacaktır. 
 
 Üfleme deliği ana gövdenin üzerinde açılmış bir boşluktan ibarettir. 
 
 Zar, ana gövdenin diğer(tüpün geçtiği kısmın karşısındaki) uca gergin bir biçimde sabitlenmiştir.
+
 *Parametrelerin incelenmesi için kullanılacak yöntemler* Sesi etkileyeceği düşünülen parametreler aşağıda sıralanmıştır:
 
 -Zarın, gövdenin ve tüpün kalınlığı
