@@ -18,11 +18,17 @@ Zar, ana gövdenin diğer(tüpün geçtiği kısmın karşısındaki) uca gergin
 *Parametrelerin incelenmesi için kullanılacak yöntemler* Sesi etkileyeceği düşünülen parametreler aşağıda sıralanmıştır:
 
 -Zarın, gövdenin ve tüpün kalınlığı
+
 -Üfleme deliğinin büyüklüğü
+
 -Üfleme deliğinin tüp ucuna yakınlığı/uzaklığı
+
 -Zarın, gövdenin ve tüpün yapıldığı maddeler
+
 -Zarın gerginliği
+
 -Tüpün ve ana gövdenin yarıçapları
+
 -Üflemenin gücü
 
 Bu parametrelerin incelenmesi için kontrol ve deney grubu olarak kornaların ayrılıp kornalardan çıkan sesler kaydedilecek, bilgisayar ortamında sesler Audacity isimli program kullanılarak analiz edilerek sesin frekans, gürlük gibi özelliklerine göre grafik ve tablolar oluşturulacak, buna göre sesi etkileyen/etkilemeyen unsurlar rapor edilecektir
